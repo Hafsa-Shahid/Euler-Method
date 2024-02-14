@@ -1,2 +1,2 @@
-# Euler_Method
+# Euler-Method
 Euler Method Code using MATLAB
